@@ -1,5 +1,10 @@
 ### Hi there, I'm Carlos 👋
 
+### About me
+----------------------------
+- 🎓 PhD in Computer Science at [Federal Univeristy of Pernambuco](https://portal.cin.ufpe.br/)
+- 🔭 Computer Science Instructor at @[betrybe](https://www.betrybe.com/)
+
 <!--
 **casm3/casm3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
