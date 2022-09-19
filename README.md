@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, I'm Carlos 👋
 
 <!--
 **casm3/casm3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=casm3&layout=compact)](https://github.com/casm3/github-readme-stats)
+![Carlos Melo's GitHub stats](https://github-readme-stats.vercel.app/api?username=casm3&count_private=true&show_icons=true)
