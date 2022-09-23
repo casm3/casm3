@@ -25,5 +25,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=casm3&layout=compact&count_private=true)](https://github.com/casm3/github-readme-stats)
-![Carlos Melo's GitHub stats](https://github-readme-stats.vercel.app/api?username=casm3&count_private=true&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=casm3&langs_count=8&theme=tokyonight)](https://github.com/casm3/github-readme-stats)
+
+![Carlos Melo's GitHub stats](https://github-readme-stats.vercel.app/api?username=casm3&count_private=true&show_icons=true&theme=tokyonight)
