@@ -6,7 +6,7 @@
 - 🔭 I’m currently working as a Computer Science Instructor at @[betrybe](https://www.betrybe.com/)
 - 💼 My previous job experiences:
 1. (2012 - 2013) Internship as a Back-end developer (Java and PHP)
-2. (2015 - 2017) Research at CIn - Motorola Partneship (Java)
+2. (2015 - 2017) Researcher at CIn - Motorola Partneship (Java)
 3. (2018 - 2019) Computer Network Professor at [Faculdade Alpha](https://faculdade.alpha.edu.br/)
 4. (2021 - 2021) Information Security Professor at [Uni São Miguel](https://www.unisaomiguel.edu.br)
 
@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=casm3&layout=compact)](https://github.com/casm3/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=casm3&layout=compact&count_private=true)](https://github.com/casm3/github-readme-stats)
 ![Carlos Melo's GitHub stats](https://github-readme-stats.vercel.app/api?username=casm3&count_private=true&show_icons=true)
