@@ -10,6 +10,8 @@
 3. (2018 - 2019) Computer Network Professor at [Faculdade Alpha](https://faculdade.alpha.edu.br/)
 4. (2021 - 2021) Information Security Professor at [Uni São Miguel](https://www.unisaomiguel.edu.br)
 
+Contact me at: prof.casm@gmail.com
+
 <!--
 **casm3/casm3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
