@@ -3,13 +3,14 @@
 ### About me
 ----------------------------
 - 🎓 PhD in Computer Science at [Federal Univeristy of Pernambuco](https://portal.cin.ufpe.br/)
-- 🔭 I’m currently working as a Computer Science Instructor at @[betrybe](https://www.betrybe.com/)
+- 🔭 I’m currently in a Post-Doctoral position at [Federal University of Piauí](https://ufpi.br/)
+  
 - 💼 My previous job experiences:
 1. (2012 - 2013) Internship as a Back-end developer (Java and PHP)
 2. (2015 - 2017) Researcher at CIn - Motorola Partneship (Java)
 3. (2018 - 2019) Computer Network Professor at [Faculdade Alpha](https://faculdade.alpha.edu.br/)
 4. (2021 - 2021) Information Security Professor at [Uni São Miguel](https://www.unisaomiguel.edu.br)
-
+5. (2021 - 2024) Computer Science Instructor at @[betrybe](https://www.betrybe.com/)
 Contact me at: prof.casm@gmail.com
 
 <!--
