@@ -1,7 +1,7 @@
-### Hi there, I'm [Carlos](https://www.linkedin.com/in/casm3/) 👋
+### Olá 👋, sou o *Carlos*, tenho 33 anos, falo de Garanhuns, interior de Pernambuco, sou Pesquisador, Programador e Professor há mais de 15 anos. Atualmente sou pós-doutorando na [Universidade Federal do Piauí.](https://sigaa.ufpi.br/sigaa/public/programa/apresentacao.jsf?lc=pt_BR&id=615)
 
-### About me
 ----------------------------
+### Sobre mim:
 - 🎓 PhD in Computer Science at [Federal Univeristy of Pernambuco](https://portal.cin.ufpe.br/)
 - 🔭 I’m currently in a Post-Doctoral position at [Federal University of Piauí](https://ufpi.br/)
   
@@ -11,6 +11,7 @@
 3. (2018 - 2019) Computer Network Professor at [Faculdade Alpha](https://faculdade.alpha.edu.br/)
 4. (2021 - 2021) Information Security Professor at [Uni São Miguel](https://www.unisaomiguel.edu.br)
 5. (2021 - 2024) Computer Science Instructor at @[betrybe](https://www.betrybe.com/)
+
 Contact me at: prof.casm@gmail.com
 
 <!--
