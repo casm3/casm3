@@ -2,17 +2,11 @@
 
 ----------------------------
 ### Sobre mim:
-- 🎓 PhD in Computer Science at [Federal Univeristy of Pernambuco](https://portal.cin.ufpe.br/)
-- 🔭 I’m currently in a Post-Doctoral position at [Federal University of Piauí](https://ufpi.br/)
-  
-- 💼 My previous job experiences:
-1. (2012 - 2013) Internship as a Back-end developer (Java and PHP)
-2. (2015 - 2017) Researcher at CIn - Motorola Partneship (Java)
-3. (2018 - 2019) Computer Network Professor at [Faculdade Alpha](https://faculdade.alpha.edu.br/)
-4. (2021 - 2021) Information Security Professor at [Uni São Miguel](https://www.unisaomiguel.edu.br)
-5. (2021 - 2024) Computer Science Instructor at @[betrybe](https://www.betrybe.com/)
-
-Contact me at: prof.casm@gmail.com
+Doutor (2017 - 2021) e mestre (2014 - 2016) em Ciência da Computação pelo Centro de Informática da Universidade Federal de Pernambuco ([CIn-UFPE](https://portal.cin.ufpe.br/)). Especialista em Cloud Computing (2021) pela Escola Politécnica da Universidade de Pernambuco ([POLI-UPE](https://poli.br/)). Bacharel em Ciência da Computação (2009 - 2013) pela Universidade Federal Rural de Pernambuco ([UFRPE](https://www.ufrpe.br/)).
+Atualmente, é pós-doutorando pelo Programa de Pós Graduação em Ciência da Computação da Universidade Federal do Piauí ([PPGCC-UFPI](https://ufpi.br/)) e atua em pesquisas relacionadas a modelagem e avaliação de desempenho e dependabilidade de plataformas baseadas em Blockchain.
+Anteriormente, foi instrutor do curso de desenvolvimento web (2021 - 2024) da Escola de Programação [Trybe](https://www.betrybe.com/) atuando no módulo de Ciência da Computação com Python e na eletiva de desenvolvimento Backend com Java, construindo ementas, elaborando projetos automatizados e produzindo conteúdo escrito e em vídeo.
+Foi assistente de pesquisa em projeto firmado entre o Centro de Informática da UFPE e a Motorola (2015 - 2017), lidando com a construção de aplicações para serviços de sincronização de dados entre dispositivos móveis e plataformas de nuvem.
+Foi líder de Seção (2021) no Code in Place da [Universidade de Stanford](https://codeinplace.stanford.edu/), professor de Segurança da Informação (2021) na [Uni São Miguel](https://www.unisaomiguel.edu.br) e de Redes de Computadores e Teoria Geral dos Sistemas (2018 - 2019) na [Faculdade Alpha](https://faculdade.alpha.edu.br/).
 
 <!--
 **casm3/casm3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
